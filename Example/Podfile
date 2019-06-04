@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YBExtensions_Example' do
+  pod 'YBExtensions', :path => '../'
+
+  target 'YBExtensions_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
