@@ -1,0 +1,22 @@
+{
+  "name": "YBExtensions",
+  "version": "0.1.0",
+  "summary": "A short description of YBExtensions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/queuey/YBExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "queuey": "queuey@163.com"
+  },
+  "source": {
+    "git": "https://github.com/queuey/YBExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YBExtensions/Classes/**/*"
+}

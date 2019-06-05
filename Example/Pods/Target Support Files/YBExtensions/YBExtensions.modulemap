@@ -1,0 +1,6 @@
+framework module YBExtensions {
+  umbrella header "YBExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
